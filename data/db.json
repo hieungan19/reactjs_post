@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "title": "Second post",
+      "datetime": "July 16, 2021 11:47:48 AM",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. two"
+    },
+    {
+      "id": 4,
+      "title": "Testing a 4th post",
+      "datetime": "August 02, 2021 11:46:27 AM",
+      "body": "Some more testing paragraphs!"
+    },
+    {
+      "id": 5,
+      "title": "abc",
+      "datetime": "August 08,2022 10:39:00 PM",
+      "body": "hellu"
+    },
+    {
+      "id": 6,
+      "title": "hieungan",
+      "datetime": "August 13,2022 2:50:54 PM",
+      "body": "tui thiet cute"
+    }
+  ]
+}
