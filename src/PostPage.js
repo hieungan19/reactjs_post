@@ -31,7 +31,12 @@ const NewPost = () => {
             <p className="postDate">{post.dateTime}</p>
             <p className="postBody">{post.body}</p>
             <Link to={`/edit/${post.id}`}>
-              <button className="editButton">Edit Post</button>
+              <button
+                className="editButton"
+                style={{ backgroundColor: "blue" }}
+              >
+                Edit Post
+              </button>
             </Link>
             <button
               onClick={() => {
